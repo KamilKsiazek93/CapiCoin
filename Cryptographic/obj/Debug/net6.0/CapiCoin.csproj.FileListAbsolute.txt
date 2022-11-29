@@ -1,0 +1,15 @@
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\CapiCoin.exe
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\CapiCoin.deps.json
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\CapiCoin.runtimeconfig.json
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\CapiCoin.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\CapiCoin.pdb
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.csproj.AssemblyReference.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.AssemblyInfoInputs.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.AssemblyInfo.cs
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\refint\CapiCoin.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.pdb
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\CapiCoin.genruntimeconfig.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\ref\CapiCoin.dll

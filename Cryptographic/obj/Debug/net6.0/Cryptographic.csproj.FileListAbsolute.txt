@@ -1,0 +1,15 @@
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\Cryptographic.exe
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\Cryptographic.deps.json
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\Cryptographic.runtimeconfig.json
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\Cryptographic.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\bin\Debug\net6.0\Cryptographic.pdb
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.csproj.AssemblyReference.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.AssemblyInfoInputs.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.AssemblyInfo.cs
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\refint\Cryptographic.dll
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.pdb
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\Cryptographic.genruntimeconfig.cache
+C:\Users\Kamil Książek OP\source\repos\Cryptographic\Cryptographic\obj\Debug\net6.0\ref\Cryptographic.dll
